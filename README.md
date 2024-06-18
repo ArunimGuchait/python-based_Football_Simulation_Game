@@ -1,5 +1,5 @@
 # Python-based Football Simulation Game
----
+
 - Version: 0.0
 - Date: 2024-JUN-18
 
@@ -14,7 +14,7 @@ Welcome to the Football Simulation Game! This is a simple Python-based simulatio
 - **Score Updates**: The score is updated in real-time with detailed information on goal scorers.
 - **Play Again Option**: After the match ends, you have the option to play again.
 
----
+
 
 ## How to Play
 1. **Clone the Repository**:
@@ -34,7 +34,7 @@ Welcome to the Football Simulation Game! This is a simple Python-based simulatio
     - Watch the match unfold with random events and commentary.
     - At the end of the match, you can choose to play again.
 
----
+
 
 ## Code Structure
 - `man_city_squad` and `real_madrid_squad`: Lists containing the squad players for Manchester City and Real Madrid.
@@ -45,7 +45,7 @@ Welcome to the Football Simulation Game! This is a simple Python-based simulatio
 - `simulate_match(home_team, home_squad, away_team, away_squad)`: Function to simulate the entire match.
 - `main()`: Main function to start the game, handle user inputs, and control the game flow.
 
----
+
 
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue for any bugs or feature requests.
@@ -60,4 +60,4 @@ Special thanks to the teachers and TAs of Code in Place 2024 for their support a
 Icons by Flaticon and images by Freepik. 
 
 ## License
-This project is licensed under the  Apache-2.0 license. See the `LICENSE` file for more details.
+This project is licensed under the Apache-2.0 license. See the `LICENSE` file for more details.
