@@ -19,14 +19,14 @@ Welcome to the Football Simulation Game! This is a simple Python-based simulatio
 ## How to Play
 1. **Clone the Repository**:
     ```sh
-    git clone https://github.com/your-username/football-simulation-game.git
-    cd football-simulation-game
+    git clone https://github.com/ArunimGuchait/python-based_Football_Simulation_Game.git
+    cd football-simulation-game_0_0.py
     ```
 
 2. **Run the Game**:
     Make sure you have Python installed. Run the game using the following command:
     ```sh
-    python football_simulation_game.py
+    python football-simulation-game_0_0.py
     ```
 
 3. **Follow the Prompts**:
